@@ -1,9 +1,2 @@
-import os
-import json
-import time
-import math
-import requests
-
-from rich.console import Console
-from rich.table import Table
-from rich.prompt import Prompt, Confirm
+requests
+rich
